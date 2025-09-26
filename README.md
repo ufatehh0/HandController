@@ -3,7 +3,7 @@
 Control keyboard and mouse actions using hand gestures captured from the webcam.
 
 ## Requirements
-- **Python 3.11 or below** 
+- **Python 3.11** 
 
 
 ## Installation
