@@ -14,7 +14,7 @@ Install the required libraries:
 ## Usage 
 python gui.py
 
-### Settings Explained
+## Settings Explained
 - **action** – The key or mouse action to trigger (e.g., `"w"`, `"Key.space"`, `"mouse_left"`).  
 - **mode** – How the action is triggered:  
   - `"hold"` = press while gesture is active  
