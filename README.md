@@ -28,3 +28,7 @@ python gui.py
   - **pinch_dist** – Distance threshold for pinch detection.  
   - **two_split_min** – Minimum horizontal distance for two-fingers (V) gesture.  
 - **assignments** – Mapping of each gesture (`left_pinch`, `right_fist`, etc.) to its action, mode, and repeat settings.
+
+
+## Exe Link
+https://www.mediafire.com/file/dcephx4yoxmysa2/HandControl.exe/file
