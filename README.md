@@ -13,6 +13,8 @@ Install the required libraries:
 
 ## Usage 
 python gui.py
+##
+<img src="https://i.imgur.com/gTGOhzP.png" width="600" alt="Demo Screenshot">
 
 ## Settings Explained
 - **action** – The key or mouse action to trigger (e.g., `"w"`, `"Key.space"`, `"mouse_left"`).  
