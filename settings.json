@@ -1,0 +1,39 @@
+{
+  "mirror_view": true,
+  "mirror_controls": true,
+  "debug_draw": true,
+  "thresholds": {
+    "pinch_dist": 0.05,
+    "two_split_min": 0.02
+  },
+  "assignments": {
+    "left_pinch": {
+      "action": "w",
+      "mode": "hold"
+    },
+    "right_pinch": {
+      "action": "s",
+      "mode": "hold"
+    },
+    "left_fist": {
+      "action": "d",
+      "mode": "hold"
+    },
+    "right_fist": {
+      "action": "a",
+      "mode": "hold"
+    },
+    "left_two": {
+      "action": "none",
+      "mode": "repeat",
+      "repeat_hz": 5.0,
+      "tap_ms": 40
+    },
+    "right_two": {
+      "action": "none",
+      "mode": "repeat",
+      "repeat_hz": 5.0,
+      "tap_ms": 40
+    }
+  }
+}
